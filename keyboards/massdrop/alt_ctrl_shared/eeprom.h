@@ -144,6 +144,4 @@ void nkro_toggle(void) {
     sync_settings();
 }
 
-keymap_config_t keymap_config;
-
 #endif
